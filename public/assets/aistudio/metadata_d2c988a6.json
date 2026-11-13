@@ -1,0 +1,6 @@
+{
+  "name": "PakMap - Offline Pakistan Street Map & GPS Navigator",
+  "description": "Complete offline Pakistan street map with real-time GPS location tracking, motorways, highways, provincial boundaries, landmarks, and offline navigation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}

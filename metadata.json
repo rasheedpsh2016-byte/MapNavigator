@@ -1,0 +1,6 @@
+{
+  "name": "MapNavigator",
+  "description": "Optimized multi-stop route planning and real-time traffic navigation platform powered by Google Maps Platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
